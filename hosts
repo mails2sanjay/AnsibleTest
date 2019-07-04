@@ -1,0 +1,3 @@
+[csr-router]
+CSR-01 ansible_host=192.168.239.133
+#git-release-test#
